@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Docker
 - Kubernates
 
-### 😍 I’m currently interest
+### 😍 I’m currently interested in
 
 - Flutter
 - Rust
