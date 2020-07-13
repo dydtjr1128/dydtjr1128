@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 - Modern C++ (Currently, C++ 14, 17, 20)
 - Java(Java 8)
+- React
 - Docker
 - Kubernates
 
