@@ -32,5 +32,11 @@ Here are some ideas to get you started:
 - Rust
 
 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/yongseok-choi/
-- Email: dydtjr1128@gmail.com
+
+<div align=center>
+    
+[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dydtjr1128/)](https://github.com/dydtjr1128/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongseok-choi/)](https://www.linkedin.com/in/yongseok-choi/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dydtjr1994@gmail.com)](mailto:dydtjr1994@gmail.com)
+
+</div>
