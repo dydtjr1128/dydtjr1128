@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - Flutter
 - Rust
 
-📫 How to reach me
-
 <div align=center>
     
 [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dydtjr1128/)](https://github.com/dydtjr1128/) 
