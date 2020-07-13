@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Choi Yong Seok -- @dydtjr1128
+
+😀 Hello! Welcome to my Github profile!
+
+### 🌱 I’m currently learning
+
+- Modern C++ (Currently, C++ 14, 17, 20)
+- Java(Java 8)
+- Docker
+- Kubernates
+
+### 😍 I’m currently interest
+
+- Flutter
+- Rust
+
+📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/yongseok-choi/
+- Email: dydtjr1128@gmail.com
