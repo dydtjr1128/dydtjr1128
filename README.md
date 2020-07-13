@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Choi Yong Seok -- @dydtjr1128
+### Choi Yong Seok - @dydtjr1128
 
 😀 Hello! Welcome to my Github profile!
 
