@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 😀 Hello! Welcome to my Github profile!
 
+[![dydtjr1128's github stats](https://github-readme-stats.vercel.app/api?username=dydtjr1128)](https://github.com/dydtjr1128)
+
 ### 🌱 I’m currently learning
 
 - Modern C++ (Currently, C++ 14, 17, 20)
