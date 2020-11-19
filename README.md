@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 [![dydtjr1128's github stats](https://github-readme-stats.vercel.app/api?username=dydtjr1128)](https://github.com/dydtjr1128)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dydtjr1128&hide=Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Choi Yong Seok - @dydtjr1128
 
 😀 Hello! Welcome to my Github profile!
