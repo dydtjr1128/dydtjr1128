@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
 
 - Modern C++ (Currently, C++ 14, 17, 20)
-- Java(Java 8)
+- Java
 - Spring framework
 - Python
 - React
